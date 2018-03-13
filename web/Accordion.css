@@ -1,0 +1,44 @@
+		#accordion {
+		    list-style: none;
+		    padding: 0 0 0 0;
+		}
+
+		#accordion div {
+		    display: block;
+		    background-color: #FF9927;
+		    font-weight: bold;
+		    margin: 1px;
+		    cursor: pointer;
+		    padding: 7px 7px 7px 7px;
+		    list-style: circle;
+		    border-radius:5px;
+		}
+
+		#accordion ul {
+		    list-style: none;
+		    padding: 0 0 0 0;
+		}
+
+		#accordion ul{
+			display:none;		    
+		}
+
+		#accordion ul li {
+		    font-weight: normal;
+		    cursor: pointer;
+		    background-color: skyblue;
+		    padding: 5px 5px 5px 12px;
+		    border-bottom:1px solid black;
+		    margin:1px 3px 1px 3px;
+					    
+		}
+
+		#accordion a {
+		    text-decoration: none;
+		    color:white;
+		}
+
+		#accordion ul li:hover
+		{
+			background-color:buttonface;
+		}

@@ -1,0 +1,38 @@
+#MainDiv
+{
+    height: 900px ;
+    width: 600px ;
+    margin: 0 auto ;
+    background-color: lightblue ;
+    border-radius: 7px 7px 0px 0px ;
+}
+#TitleDiv
+{
+    height: 80px ;
+    background-color: lightslategrey ;
+    text-align: center ;
+    font-size: 40pt ;
+    color: black ;
+}
+#MenuDiv 
+{
+    border-bottom: white solid 3px ;
+}
+
+#MenuDiv table 
+{
+    width: 100% ;
+}
+#MenuDiv a 
+{
+    text-decoration: none ;
+    color: green ;
+}
+
+#ContentDiv
+{
+    color: white ;
+    padding-top: 20px ;
+    padding-left: 20px ;
+}
+
